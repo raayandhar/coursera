@@ -1,2 +1,2 @@
 # coursera
-coursera courses
+Various coursera courses with notes, labs, and solutions.
