@@ -5,12 +5,12 @@
 
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[l]{CS 294-165 Notes}
+\fancyhead[l]{Coursera Machine Learning Specialization Notes}
 \fancyhead[r]{Raayan Dhar}
 \cfoot{\thepage}
 
 \begin{document} 
-\title{\Large CS 294-165: Sketching Algorithms}
+\title{\Large Coursera Machine Learning Specialization}
 \author{\large Raayan Dhar}
 \date{\large\today}
 
@@ -18,19 +18,29 @@
 
 \begin{center}
 \begin{displayquote}
-    \emph{"A good stock of examples, as large as possible, is indispensable for a thorough understanding of any concept, and when I want to learn something new, I make it my first job to build one."} \\ \begin{flushright} \emph{– Paul Halmos}.  \end{flushright}
+    \emph{"(Machine Learning) The field of study that gives computers the ability to learn without explicitly being programmed."} \\ \begin{flushright} \emph{– Athur Samuel, 1959}.  \end{flushright}
 \end{displayquote}
 \end{center}
 
 
-These are course notes for the Fall 2020 rendition of CS 294-165, Sketching Algorithms, taught by Professor Jelani Nelson. Credit for the template goes to Tyler Zhu.
+These are course notes for Deeplearning.ai's Machine Learning Specialization, taught by Professor Andrew Ng. Credit for the template goes to Tyler Zhu.
 
 \tableofcontents 
 
 \newpage
 
-\section{Wednesday, August 26}
+\section{Supervised Machine Learning}
 
+\subsection{Week 1}
+Supervised machine learning refers to algorithms that learn $x \rightarrow y$, or input to output mappings.
+\newline\newline The key characteristic of supervised learning is that you give your learning algorithm examples to learn from. This includes
+right answers (correct label $y$ for given input $x$). It is by seeing correct pairs of input $x$ and desired output label $y$
+that the learning algorithm eventually learns to take \textit{just} the input alone without the output label, and gives a reasonably
+accurate prediction or guess of the output. An example of a supervised learning algorithm is \textit{\underline{regression}}, where the task is to predict
+a number. A second example of a supervised learning algorithm is \textit{\underline{classification}}, where the task is to predict
+categories. Classification is different from regression because it only has a small number of possible output, unlike regression, which has infinite.
+Additionally, classification algorithms can take two or more inputs. Typically, the more complex the problem, the more
+inputs you will need to use. 
 
 
 \end{document}
