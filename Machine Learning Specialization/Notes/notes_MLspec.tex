@@ -41,6 +41,30 @@ a number. A second example of a supervised learning algorithm is \textit{\underl
 categories. Classification is different from regression because it only has a small number of possible output, unlike regression, which has infinite.
 Additionally, classification algorithms can take two or more inputs. Typically, the more complex the problem, the more
 inputs you will need to use. 
+\begin{enumerate}
+    \item Supervised learning learns from data labeled with the "right answers."
+    \item Unsupervised learning finds something interesting in unlabeled data. In Unsupervised learning, 
+    data comes with inputs $x$, but not output labels $y$. The algorithm has to find \underline{structure} in 
+    the data. For example, 
+    \begin{enumerate}
+        \item Clustering: Groups similar data points together
+        \item Anomaly detection: Find unusual data points
+        \item Dimensionality reduction: compress data using fewer numbers
+    \end{enumerate}
+\end{enumerate}
+\textbf{Terminology \& Notation}
+\begin{enumerate}
+    \item \textbf{Definition} (informal) Training Set: Data used to train the model.
+    \item $x$ = ``input" variable
+    \item $y$ = ``output'' variable / ``target'' variable
+    \item $m$ = number of training examples
+    \item $(x, y)$ = single training example
+    \item $(x^{(i)}, y^{(i)})$ = \textit{i}th training example (e.g., 1st, 2nd, 3rd, etc)
+    \item $w$ = weight (parameter)
+    \item $b$ = bias (parameter)
+    \item $f$ = function / model, also represented by $f_{w,b} (x) = wx + b$
+\end{enumerate}
+We will define the \textbf{cost function} to be
 
 
 \end{document}
