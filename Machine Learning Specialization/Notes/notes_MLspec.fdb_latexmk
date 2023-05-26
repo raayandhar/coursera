@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1685082547 "/Users/raayandhar/Documents/GitHub/coursera/Machine Learning Specialization/Notes/notes_MLspec.tex" "notes_MLspec.pdf" "notes_MLspec" 1685082548
-  "/Users/raayandhar/Documents/GitHub/coursera/Machine Learning Specialization/Notes/notes_MLspec.tex" 1685082547 3255 9ef95782f5e63e4c45ac058acfbd7609 ""
+["pdflatex"] 1685082630 "/Users/raayandhar/Documents/GitHub/coursera/Machine Learning Specialization/Notes/notes_MLspec.tex" "notes_MLspec.pdf" "notes_MLspec" 1685082631
+  "/Users/raayandhar/Documents/GitHub/coursera/Machine Learning Specialization/Notes/notes_MLspec.tex" 1685082629 3256 f44bd82f45a61e8e5d4d13bb8dc0ad89 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm" 1246382020 1120 200be8b775682cdf80acad4be5ef57e4 ""
@@ -227,10 +227,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1671153093 2826435 5a00cbc070cfd93163253b543f6853ff ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "notes_MLspec.aux" 1685082548 1738 eddaf354058fc045c214e60d15535b9d "pdflatex"
+  "notes_MLspec.aux" 1685082631 1738 eddaf354058fc045c214e60d15535b9d "pdflatex"
   "notes_MLspec.out" 0 -1 0 "pdflatex"
-  "notes_MLspec.tex" 1685082547 3255 9ef95782f5e63e4c45ac058acfbd7609 ""
-  "notes_MLspec.toc" 1685082548 220 021761bf69c8869f9eb20ab71cac4d46 "pdflatex"
+  "notes_MLspec.tex" 1685082629 3256 f44bd82f45a61e8e5d4d13bb8dc0ad89 ""
+  "notes_MLspec.toc" 1685082631 220 021761bf69c8869f9eb20ab71cac4d46 "pdflatex"
   "tyler.sty" 1675833863 10553 5152a14c9396fe28bae814b8ede6a4b7 ""
   (generated)
   "notes_MLspec.aux"
